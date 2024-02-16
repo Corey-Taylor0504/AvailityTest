@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82d27e70-b41f-4bc8-91f9-4d49fee66d87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AvailityTest.iml" afterDir="false" />
+    <list default="true" id="82d27e70-b41f-4bc8-91f9-4d49fee66d87" name="Changes" comment="ParenthesisValidator">
+      <change afterPath="$PROJECT_DIR$/Problem1- impressive article" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2cPmt7gpiWeOAxrFRRviKJ9U4iM" />
   <component name="ProjectViewState">
@@ -36,7 +40,16 @@
       <workItem from="1708021800413" duration="97000" />
       <workItem from="1708021943948" duration="384000" />
       <workItem from="1708022895637" duration="48000" />
+      <workItem from="1708085536134" duration="337000" />
     </task>
+    <task id="LOCAL-00001" summary="ParenthesisValidator">
+      <created>1708085715950</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708085715950</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,5 +65,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ParenthesisValidator" />
+    <option name="LAST_COMMIT_MESSAGE" value="ParenthesisValidator" />
   </component>
 </project>
